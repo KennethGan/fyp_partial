@@ -8,4 +8,7 @@ Download this repository "fyp_partial-master.zip".
 Download the video file https://youtu.be/hbZ9GSciQGo then rename it to "sample.mp4" and save to desktop.
 
 # 3. Tutorial link
-Follow the steps in https://youtu.be/kt-TONPk8R4 
+Follow the steps in https://youtu.be/uXz9LXK5nlA 
+
+# 4. (Optional) To run with GPU 
+Follow the instructions in AdditionalUsage.txt
